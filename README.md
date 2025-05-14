@@ -1,6 +1,8 @@
 ### Hi! 👋 I'm Maxwell Massie
 
-I am an undergraduate Informatics Engineering student at Gunadarma University with a keen interest in backend development and machine learning for data science. Skilled in Python, and Node.js , I have experience with frameworks like Flask and Tensorflow.
+I am a third-year student with a strong interest in Data and Machine Learning. I have a solid understanding of supervised and unsupervised learning, as well as deep learning techniques, and I enjoy applying machine learning to support data-driven decision-making. Currently, I am part of the Machine Learning Engineer cohort at the Coding Camp powered by DBS Foundation. 
+
+Professionally, I specialize in developing image classification models. Personally, I thrive in collaborative environments where problem-solving and teamwork drive progress and innovation. Passionate about continuous learning, I am always eager to learn, adapt, and grow both personally and professionally to further develop my competencies in this ever-evolving field.
 
 ### **Tech Stack**
 
